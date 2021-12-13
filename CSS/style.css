@@ -87,7 +87,7 @@ html{
 } 
 
 #about{
-    background: url(image/bhc.jpg);
+    background: url(image/bhc.png);
     background-size: cover;
     display: flex;
     flex-direction: column;
